@@ -2,7 +2,7 @@ Sistema de Empréstimo de Equipamentos
 
 Esse é o meu Projeto 2: uma API para controlar o empréstimo de equipamentos (notebooks, monitores, headsets) para os colaboradores de uma empresa. A ideia é acabar com a planilha e saber direitinho quem está com o quê e o que está atrasado.
 
-**API no Render:** COLE_AQUI_O_LINK_DO_RENDER
+**API no Render**:(https://emprestimo-equipamento.onrender.com)
 
 Feito com Java 25, Spring Boot 4, Spring Data JPA, banco H2, Spring Security com JWT, JUnit 5 e MockMvc.
 
